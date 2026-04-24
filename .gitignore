@@ -1,0 +1,33 @@
+# ─────────────────────────────────────────
+#  CyberPlay — .gitignore
+# ─────────────────────────────────────────
+
+# Database credentials — NEVER commit these
+db.php
+
+# Environment files
+.env
+config.php
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# PHP error logs
+*.log
+error_log
+php_errorlog
+
+# Uploaded user files (if file upload added later)
+uploads/
+
+# Node (if added later)
+node_modules/
+package-lock.json
