@@ -150,7 +150,7 @@ This project was built to simulate a real-world gaming platform with user intera
 ## 🙋‍♀️ Author
 
 **Khadija Ayub**
-- GitHub: [@khadija-ayub](https://github.com/Khadija-Ayub)
+- GitHub: [@Khadija-Ayub](https://github.com/Khadija-Ayub)
 - Email: khadijaayub19@gmail.com
 
 ---
